@@ -7,14 +7,14 @@ you find the examples as branches in this repo. example_one = start code. exampl
 
 GET STARTED
 
-- git clone <thisProject>
-- cd <thisProject>
+- git clone thisProject
+- cd thisProject
 - npm i
 - cd ./ses_1
 - npm i
 
 - create .env file in root folder
-- add in .env: DB_URI=<yourMongoConnectionString>
+- add in .env: DB_URI=yourMongoConnectionString
 - add PORT in .env: PORT=5500
 
 - in root folder: node server.js
