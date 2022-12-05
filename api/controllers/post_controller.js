@@ -15,7 +15,7 @@ export const get_all_posts = async (req, res) => {
     return res.json({
       success: false,
       message: "Get all posts error",
-      data: null,
+      data: [],
     });
   }
 };
