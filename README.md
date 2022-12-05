@@ -56,4 +56,4 @@ IMPROVEMENTS
 
 ADDITIONS
 
-- the package 'react-responsive'. i think its a good and simple tool for making you app responsive. in this app i add a classname to my div className="App" based screenwidth, and change the background color based on the classname.
+- the package 'react-responsive'. i think its a good and simple tool for making you app responsive. in this app i add a classname to my div className="App" based screenwidth, and change the background color based on the classname. if you want to use it in other components - use useContext and provide it.

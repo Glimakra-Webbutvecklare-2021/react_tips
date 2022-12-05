@@ -6,8 +6,6 @@ import { useMediaQuery } from "react-responsive";
 import { Header } from "../components/layouts/header/Header";
 import { AppRoutes } from "./appRoutes/AppRoutes";
 
-import { SmallScreenContext } from "../components/helpers/SmallScreenContext";
-
 import "./global.scss";
 
 export const UserContext = createContext();
